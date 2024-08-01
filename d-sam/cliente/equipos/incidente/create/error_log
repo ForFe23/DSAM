@@ -1,0 +1,6 @@
+[23-May-2024 12:37:25 America/Chicago] PHP Warning:  Undefined variable $CLIENTEincidenteOPCION in /home3/alphatf1/dsamnet/d-sam/cliente/equipos/incidente/create/crearincidente.php on line 148
+[23-May-2024 12:37:25 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/alphatf1/dsamnet/d-sam/cliente/equipos/incidente/create/crearincidente.php on line 148
+[23-May-2024 12:37:25 America/Chicago] PHP Warning:  Undefined variable $RESPONSABLEincidenteOPCION in /home3/alphatf1/dsamnet/d-sam/cliente/equipos/incidente/create/crearincidente.php on line 155
+[23-May-2024 12:37:25 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/alphatf1/dsamnet/d-sam/cliente/equipos/incidente/create/crearincidente.php on line 155
+[23-May-2024 12:37:25 America/Chicago] PHP Warning:  Undefined variable $CLIENTEincidenteOPCION in /home3/alphatf1/dsamnet/d-sam/cliente/equipos/incidente/create/crearincidente.php on line 165
+[23-May-2024 12:37:25 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/alphatf1/dsamnet/d-sam/cliente/equipos/incidente/create/crearincidente.php on line 165

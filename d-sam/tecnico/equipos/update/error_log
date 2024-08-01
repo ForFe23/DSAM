@@ -1,0 +1,99 @@
+[04-May-2024 19:37:39 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(214): obtenerOpciones('NOMBRECLIENTE', 'cliente', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:37:39 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(229): obtenerOpciones('NOMBREUSUARIO', 'equipo', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:37:39 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(235): obtenerOpciones('PROCESADOREQUIP...', 'equipo', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:37:39 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(214): obtenerOpciones('NOMBRECLIENTE', 'cliente', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:38:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(241): obtenerOpciones('MEMORIAEQUIPO', 'equipo', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:38:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(238): obtenerOpciones('HDDEQUIPO', 'equipo', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:38:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(241): obtenerOpciones('MEMORIAEQUIPO', 'equipo', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:42:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(232): obtenerOpciones('OFFICEEQUIPO', 'equipo', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:42:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(235): obtenerOpciones('PROCESADOREQUIP...', 'equipo', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:42:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(217): obtenerOpciones('MARCAEQUIPO', 'equipo', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:42:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(214): obtenerOpciones('NOMBRECLIENTE', 'cliente', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:42:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(214): obtenerOpciones('NOMBRECLIENTE', 'cliente', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:42:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(229): obtenerOpciones('NOMBREUSUARIO', 'equipo', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 19:42:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(192): include('/home3/alphatf1...')
+#2 /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php(238): obtenerOpciones('HDDEQUIPO', 'equipo', '2')
+#3 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[16-May-2024 10:27:40 America/Chicago] PHP Warning:  Undefined array key "statusEquipo" in /home3/alphatf1/dsamnet/d-sam/tecnico/equipos/update/crudequipoeditar.php on line 95

@@ -1,0 +1,235 @@
+[20-May-2024 11:31:10 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[20-May-2024 11:31:10 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[20-May-2024 11:31:10 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[20-May-2024 11:31:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[20-May-2024 11:38:12 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[20-May-2024 11:38:12 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[20-May-2024 11:38:12 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[20-May-2024 11:38:12 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[20-May-2024 11:46:01 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[20-May-2024 11:46:01 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[20-May-2024 11:46:01 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[20-May-2024 11:46:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[20-May-2024 11:49:19 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[20-May-2024 11:49:19 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[20-May-2024 11:49:19 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[20-May-2024 11:49:19 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[23-May-2024 14:22:31 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[23-May-2024 14:22:31 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[23-May-2024 14:22:31 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[23-May-2024 14:22:31 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[23-May-2024 14:27:01 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[23-May-2024 14:27:01 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[23-May-2024 14:27:01 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[23-May-2024 14:27:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[28-May-2024 21:32:20 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[28-May-2024 21:32:20 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[28-May-2024 21:32:20 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[28-May-2024 21:32:20 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[28-May-2024 21:33:29 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[28-May-2024 21:33:29 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[28-May-2024 21:33:29 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[28-May-2024 21:33:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[28-May-2024 21:34:45 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[28-May-2024 21:34:45 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[28-May-2024 21:34:45 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[28-May-2024 21:34:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[28-May-2024 21:35:56 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[28-May-2024 21:35:56 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[28-May-2024 21:35:56 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[28-May-2024 21:35:56 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[28-May-2024 21:37:11 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[28-May-2024 21:37:11 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[28-May-2024 21:37:11 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[28-May-2024 21:37:11 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[28-May-2024 21:38:33 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[28-May-2024 21:38:33 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[28-May-2024 21:38:33 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[28-May-2024 21:38:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[28-May-2024 21:39:30 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[28-May-2024 21:39:30 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[28-May-2024 21:39:30 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[28-May-2024 21:39:30 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[28-May-2024 21:41:10 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[28-May-2024 21:41:10 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[28-May-2024 21:41:10 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[28-May-2024 21:41:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[28-May-2024 21:42:22 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[28-May-2024 21:42:22 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[28-May-2024 21:42:22 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[28-May-2024 21:42:22 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[28-May-2024 21:43:45 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[28-May-2024 21:43:45 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[28-May-2024 21:43:45 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[28-May-2024 21:43:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[28-May-2024 21:45:18 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[28-May-2024 21:45:18 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[28-May-2024 21:45:18 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[28-May-2024 21:45:18 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[28-May-2024 21:46:17 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[28-May-2024 21:46:17 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[28-May-2024 21:46:17 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[28-May-2024 21:46:17 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[11-Jun-2024 12:09:48 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[11-Jun-2024 12:09:48 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[11-Jun-2024 12:09:48 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[11-Jun-2024 12:09:49 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[11-Jun-2024 12:10:59 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[11-Jun-2024 12:10:59 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[11-Jun-2024 12:10:59 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[11-Jun-2024 12:11:00 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[11-Jun-2024 12:11:56 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[11-Jun-2024 12:11:56 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[11-Jun-2024 12:11:56 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[11-Jun-2024 12:11:57 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[13-Jun-2024 16:28:25 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[13-Jun-2024 16:28:26 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[13-Jun-2024 16:28:26 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[13-Jun-2024 16:28:26 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[25-Jun-2024 12:10:05 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[25-Jun-2024 12:10:05 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[25-Jun-2024 12:10:05 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[25-Jun-2024 12:10:06 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[25-Jun-2024 12:12:47 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[25-Jun-2024 12:12:47 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[25-Jun-2024 12:12:47 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[25-Jun-2024 12:12:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[27-Jun-2024 13:07:23 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[27-Jun-2024 13:07:23 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[27-Jun-2024 13:07:23 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[27-Jun-2024 13:07:23 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142
+[09-Jul-2024 10:54:53 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 62
+[09-Jul-2024 10:54:53 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 80
+[09-Jul-2024 10:54:53 America/Chicago] PHP Warning:  Undefined array key "statusEquipo" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 89
+[09-Jul-2024 10:54:53 America/Chicago] PHP Warning:  Undefined array key "idCliente" in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 154
+[09-Jul-2024 10:54:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php:142
+Stack trace:
+#0 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(142): mysqli->query('SELECT DISTINCT...')
+#1 /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php(157): obtenerOpciones('NOMBRECLIENTE', 'cliente', NULL)
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/d-sam/admin/equipos/crud/create/crearxcliente.php on line 142

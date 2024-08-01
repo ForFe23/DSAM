@@ -1,0 +1,66 @@
+[04-May-2024 20:44:39 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/cliente/equipos/read/otro.php(80): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 20:44:42 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/cliente/equipos/read/otro.php(80): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 20:44:42 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/cliente/equipos/read/otro.php(80): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 20:44:42 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/cliente/equipos/read/otro.php(80): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 20:44:44 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/cliente/equipos/read/otro.php(80): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 20:44:44 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/cliente/equipos/read/otro.php(80): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 20:44:44 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/cliente/equipos/read/otro.php(80): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 20:44:44 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/cliente/equipos/read/otro.php(80): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 20:44:44 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/cliente/equipos/read/otro.php(80): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 20:44:44 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/cliente/equipos/read/otro.php(80): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[04-May-2024 20:44:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: User alphatf1_dsamdef already has more than 'max_user_connections' active connections in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('108.167.161.60', 'alphatf1_dsamde...', Object(SensitiveParameterValue), 'alphatf1_dsamde...')
+#1 /home3/alphatf1/dsamnet/d-sam/cliente/equipos/read/otro.php(80): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8

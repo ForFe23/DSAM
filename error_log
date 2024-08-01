@@ -1,0 +1,144 @@
+[15-Jun-2024 14:03:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'dapcompu_dsam'@'gator4229.hostgator.com' (using password: YES) in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.13', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[15-Jun-2024 14:03:50 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'dapcompu_dsam'@'gator4229.hostgator.com' (using password: YES) in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.13', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[17-Jun-2024 14:22:32 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'dapcompu_dsam'@'gator4229.hostgator.com' (using password: YES) in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.13', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[18-Jun-2024 10:34:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'dapcompu_dsam'@'gator4229.hostgator.com' (using password: YES) in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.13', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[18-Jun-2024 10:39:55 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'dapcompu_dsam'@'gator4229.hostgator.com' (using password: YES) in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.13', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[25-Jun-2024 08:41:30 America/Chicago] PHP Warning:  Undefined array key "correo_electronico" in /home3/alphatf1/dsamnet/index.php on line 20
+[28-Jun-2024 19:50:33 America/Chicago] PHP Warning:  Undefined array key "correo_electronico" in /home3/alphatf1/dsamnet/index.php on line 20
+[01-Jul-2024 10:02:42 America/Chicago] PHP Warning:  Undefined array key "correo_electronico" in /home3/alphatf1/dsamnet/index.php on line 20
+[02-Jul-2024 10:15:17 America/Chicago] PHP Warning:  Undefined array key "correo_electronico" in /home3/alphatf1/dsamnet/index.php on line 20
+[04-Jul-2024 08:52:19 America/Chicago] PHP Warning:  Undefined array key "correo_electronico" in /home3/alphatf1/dsamnet/index.php on line 20
+[27-Jul-2024 13:36:28 America/Chicago] PHP Warning:  Undefined array key "correo_electronico" in /home3/alphatf1/dsamnet/index.php on line 20
+[30-Jul-2024 16:13:42 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[30-Jul-2024 16:13:53 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[30-Jul-2024 16:14:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[30-Jul-2024 16:39:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[30-Jul-2024 16:40:34 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[30-Jul-2024 20:02:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[30-Jul-2024 20:28:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[31-Jul-2024 11:02:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[31-Jul-2024 11:02:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[31-Jul-2024 11:03:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[31-Jul-2024 12:40:51 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[31-Jul-2024 12:44:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[31-Jul-2024 12:47:25 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[31-Jul-2024 13:47:11 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[31-Jul-2024 13:47:21 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[31-Jul-2024 15:53:38 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[31-Jul-2024 16:20:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
+[31-Jul-2024 21:35:38 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home3/alphatf1/dsamnet/php/connection.php:8
+Stack trace:
+#0 /home3/alphatf1/dsamnet/php/connection.php(8): mysqli->__construct('45.177.125.12', 'dapcompu_dsam', Object(SensitiveParameterValue), 'dapcompu_dsam')
+#1 /home3/alphatf1/dsamnet/index.php(5): include('/home3/alphatf1...')
+#2 {main}
+  thrown in /home3/alphatf1/dsamnet/php/connection.php on line 8
